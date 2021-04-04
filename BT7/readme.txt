@@ -9,3 +9,10 @@
 3B.
 Con trỏ double không thể trỏ đến 1 biến kiểu char
 
+1D: iii
+2D: iii
+3D: iv
+4D: iv
+5D: iv
+6D: i
+7D: iii

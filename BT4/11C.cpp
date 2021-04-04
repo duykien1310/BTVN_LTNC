@@ -21,7 +21,6 @@ int Dao_Nguoc(string a, string b)
 
 int main()
 {
-	cout << Dao_Nguoc("tuan", "naut");
 	int n;
 	cout << "Nhập số từ trong danh sách: ";
 	cin >> n;
